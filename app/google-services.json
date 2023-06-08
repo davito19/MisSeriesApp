@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5799819320",
+    "project_id": "misseriesapp-95869",
+    "storage_bucket": "misseriesapp-95869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5799819320:android:939e3a605656eef6bbcecd",
+        "android_client_info": {
+          "package_name": "com.davito.misseriesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5799819320-4puqohc6lv7am7s4bttducgsespmg6lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-q_HrtmR4x1Su_yK_WQ0gMenhE5C1v4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5799819320-4puqohc6lv7am7s4bttducgsespmg6lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

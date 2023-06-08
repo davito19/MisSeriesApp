@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Mis Series</string>
+    <string name="title_signup">Sign Up</string>
+    <string name="input_name_signup">name</string>
+    <string name="input_email_signup">email</string>
+    <string name="required_field">*required field</string>
+    <string name="input_password_signup">password</string>
+    <string name="input_repeat_password_signup">repeat password</string>
+    <string name="boton_register_signup">register</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fecha_de_nacimiento">fecha de nacimiento</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="ingresar">ingresar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">mi perfil</string>
+    <string name="title_my_series">mis series</string>
+    <string name="title_series">series</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="example_nae">davito</string>
+    <string name="title_gnrer_favoritos">fvorite genre</string>
+    <string name="floating_button">new item</string>
+    <string name="seasons">seasons</string>
+    <string name="sumary">summary</string>
+    <string name="ranking">score</string>
+    <string name="example_name_serie">name serie</string>
+    <string name="season_example">season #</string>
+</resources>
